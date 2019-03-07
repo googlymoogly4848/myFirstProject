@@ -1,4 +1,4 @@
-package codakid.elements;
+	package codakid.elements;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
